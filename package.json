@@ -1,0 +1,15 @@
+{
+  "name": "amoment",
+  "version": "1.0.0",
+  "description": "Using npm packages moment and chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Friend",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0"
+  }
+}
